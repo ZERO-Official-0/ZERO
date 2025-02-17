@@ -1,7 +1,7 @@
 
 
 module.exports = {
-  TOKEN: "MTM0MDc5NTQ0OTI1ODU0MTE3Nw.G6qIbQ.ngz7jYPVTHQ-77d7cp9lG7WH1x4Y6gI85hPBaM",
+  TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
   mongodbUri : "mongodb+srv://zhakceeer:9OZ5rpX6SEOdICAS@zero.abnpr.mongodb.net/?retryWrites=true&w=majority&appName=ZERO",
