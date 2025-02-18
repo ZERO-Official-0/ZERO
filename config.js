@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1016060774944346142", ""], 
-  mongodbUri : "mongodb+srv://shiva:shiva@discordbot.opd5w.mongodb.net/?retryWrites=true&w=majority",
+  mongodbUri : "mongodb+srv://zhakceeer:9OZ5rpX6SEOdICAS@zero.abnpr.mongodb.net/?retryWrites=true&w=majority&appName=ZERO",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
